@@ -1,5 +1,5 @@
 
-# MemoryMappedFilesSample
+# HttpClientSample
 
 Small mods made to the ProfessionalCSharp7-main\Networking\NetworkingSamples\HttpClientSample
 
